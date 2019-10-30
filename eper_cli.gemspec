@@ -8,15 +8,15 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Szabolcs Toth"]
   spec.email         = ["tsz@purzelbaum.hu"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{A command line API-wrapper for football-data.org in Ruby.}
+  spec.description   = %q{A very simple API-wrapper reading your API-key as environment variable.}
+  spec.homepage      = "https://github.com/kicsipixel/eper_cli"
   spec.license       = "MIT"
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
+  spec.metadata["allowed_push_host"] = "https://rubygems.org/gems/eper_cli"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
+  spec.metadata["source_code_uri"] = "https://github.com/kicsipixel/eper_cli"
   spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
 
   # Specify which files should be added to the gem when it is released.
